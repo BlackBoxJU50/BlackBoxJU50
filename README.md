@@ -27,13 +27,30 @@
 ---
 
 ### 🚀 Featured Projects
+
 <p align="center">
-  <a href="https://github.com/BlackBoxJU50/resell-mania">
-     </a>
-  <a href="https://github.com/BlackBoxJU50/VoteBondhu">
-    </a>
-  
+  <a href="https://github.com/BlackBoxJU50/reSell-Mania-Managed-Marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxJU50&repo=reSell-Mania-Managed-Marketplace&theme=radical&show_icons=true" width="48%" alt="Resell Mania">
+  </a>
+  <a href="https://github.com/BlackBoxJU50/VoteBondhu_Mobile_App-Ftutter-GetX-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxJU50&repo=VoteBondhu_Mobile_App-Ftutter-GetX-&theme=radical&show_icons=true" width="48%" alt="VoteBondhu">
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/BlackBoxJU50/BongoDB-v1.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxJU50&repo=BongoDB-v1.0&theme=radical&show_icons=true" width="48%" alt="BongoDB">
+  </a>
+</p>
+
+---
+
+### 🛠️ Project Quick Links
+| Project Name | Key Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Resell Mania** | `React`, `Node.js`, `Firebase` | একটি ম্যানেজড মার্কেটপ্লেস প্ল্যাটফর্ম। |
+| **VoteBondhu** | `Flutter`, `GetX`, `Dart` | মোবাইল ভিত্তিক ভোটিং অ্যাপ্লিকেশন। |
+| **BongoDB v1.0** | `Database Logic`, `JS` | কাস্টম ডেটাবেস আর্কিটেকচার প্রজেক্ট। |
 
 ---
 
