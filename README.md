@@ -9,10 +9,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Full-Stack Development**
-- 🌱 I’m currently learning **Advanced Backend Architectures**
+- 🌱 I’m currently learning **Advanced Backend Architectures & AI Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, C++, Python, and React**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **ahmedhasib2224@gmail.com**
 
 ---
 
@@ -29,11 +29,10 @@
 ### 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/BlackBoxJU50/resell-mania">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxJU50&repo=resell-mania&theme=radical" width="45%" />
-  </a>
+     </a>
   <a href="https://github.com/BlackBoxJU50/VoteBondhu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxJU50&repo=VoteBondhu&theme=radical" width="45%" />
-  </a>
+    </a>
+  
 </p>
 
 ---
